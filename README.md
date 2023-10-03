@@ -1,13 +1,17 @@
 
 
 <h1 align="center">
-  <img src="https://octodex.github.com/images/original.png" width="40" /> HacktoberFest 2023 <img src="https://octodex.github.com/images/original.png" width="40" />
+  <img src="https://octodex.github.com/images/original.png" width="40" /> codeDump<img src="https://octodex.github.com/images/original.png" width="40" />
 </h1>
 
 <div align="center">
+  
+  <h2>Note that this repo no longer accepts hacktoberfest2023 , But you can surely contribute to open source projects here and be a contributor !</h2>
+
+  If u wish to contribute for hacktoberfest2023 , You can use this repo [here](https://github.com/tenzopy/codeIt) 
+    
   <h2>Don't forget to leave a star ⭐️</h2>
 
-  ![Hacktoberfest 2023](https://img.shields.io/badge/Hacktoberfest-2023-orange)
   ![GitHub issues](https://img.shields.io/github/issues/akkupy/Code_Dump)
   ![GitHub forks](https://img.shields.io/github/forks/akkupy/Code_Dump)
   ![GitHub stars](https://img.shields.io/github/stars/akkupy/Code_Dump)
@@ -53,36 +57,15 @@ This repository contains the following folders and files:
 | **[Swift](swift)** | Template to print in Swift |
 | **[Web Development](web)** | HTML, CSS, JavaScript, Bootstrap, jQuery, etc. |
 | **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** | Guidelines for contributors to be followed while contributing |
-| **[Contributing.md](contributing.md)** | Guidelines for contributing to this repository |
+| **[Contributing.md](CONTRIBUTING.md)** | Guidelines for contributing to this repository |
 | **[Readme.md](README.md)** | Introduction and overview of this repository |
 
-<!--
-- **C**: This folder contains code snippets and projects written in C language. Topics covered include arrays, pointers, structures, files, etc.
-- **C++**: This folder contains code snippets and projects written in C++ language. Topics covered include classes, inheritance, polymorphism, templates, STL, etc.
-- **Java**: This folder contains code snippets and projects written in Java language. Topics covered include OOP, exceptions, collections, threads, etc.
-- **Python**: This folder contains code snippets and projects written in Python language. Topics covered include data structures, algorithms, modules, web scraping, etc.
-- **Web Development**: This folder contains code snippets and projects related to web development. Topics covered include HTML, CSS, JavaScript, Bootstrap, jQuery, etc.
-- **contributing.md**: This file contains the guidelines for contributing to this repository.
-- **readme.md**: This file contains the introduction and overview of this repository.
--->
-
-## Contributing to Hacktoberfest 🖊️
-
-Hacktoberfest is an annual event that encourages people to contribute to open source projects. This year, it runs from October 1st to October 31st.
-
-If you're new to open source or just looking for a way to get involved, Hacktoberfest is a great opportunity to do so. Here are some ways you can contribute:
-
-- Find an open source project that you're interested in and see if they have any issues labelled "Hacktoberfest." If so, start working on those!
-
-- If you can't find any Hacktoberfest issues, try looking for other issues that you can help with.
-
-- Create your own.
 
 
 ## License 🪪
 
-This repository is licensed under the MIT License. See the [LICENSE](https://github.com/akkupy/Code_Dump/blob/main/LICENSE) file for more details.
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/akkupy/Code_Dump/blob/main/LICENSE)
+This repository is licensed under the  GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007. See the [LICENSE](https://github.com/akkupy/Code_Dump/blob/main/LICENSE) file for more details.
+[![License: GNU GPL 3](https://img.shields.io/github/license/akkupy/codeDump)](https://github.com/akkupy/Code_Dump/blob/main/LICENSE)
 
 ## Support🙏
 
